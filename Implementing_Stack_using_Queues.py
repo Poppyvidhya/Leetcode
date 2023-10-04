@@ -1,4 +1,3 @@
-"""
 
 #Implementing Stack using 1 Queue with pop costly
 
@@ -106,5 +105,3 @@ class MyStack(object):
         
 TIME COMPLEXITY : O(N)
 SPACE COMPLEXITY : O(1)
-
-"""
